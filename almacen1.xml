@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bateria>
+    <celda id="1">
+        <capacidad>4789</capacidad>
+        <resistencia>22</resistencia>
+    </celda>
+    <celda id="2">
+        <capacidad>4609</capacidad>
+        <resistencia>32</resistencia>
+    </celda>
+    <celda id="3">
+        <capacidad>4641</capacidad>
+        <resistencia>33</resistencia>
+    </celda>
+    <celda id="4">
+        <capacidad>4657</capacidad>
+        <resistencia>30</resistencia>
+    </celda>
+    <celda id="5">
+        <capacidad>4750</capacidad>
+        <resistencia>24</resistencia>
+    </celda>
+    <celda id="6">
+        <capacidad>4688</capacidad>
+        <resistencia>34</resistencia>
+    </celda>
+    <celda id="7">
+        <capacidad>4575</capacidad>
+        <resistencia>22</resistencia>
+    </celda>
+    <celda id="8">
+        <capacidad>4627</capacidad>
+        <resistencia>32</resistencia>
+    </celda>
+    <celda id="9">
+        <capacidad>4692</capacidad>
+        <resistencia>32</resistencia>
+    </celda>
+    <celda id="10">
+        <capacidad>4660</capacidad>
+        <resistencia>24</resistencia>
+    </celda>
+    <celda id="11">
+        <capacidad>4787</capacidad>
+        <resistencia>26</resistencia>
+    </celda>
+    <celda id="12">
+        <capacidad>4754</capacidad>
+        <resistencia>28</resistencia>
+    </celda>
+    <celda id="13">
+        <capacidad>4688</capacidad>
+        <resistencia>31</resistencia>
+    </celda>
+    <celda id="14">
+        <capacidad>4594</capacidad>
+        <resistencia>22</resistencia>
+    </celda>
+    <celda id="15">
+        <capacidad>4761</capacidad>
+        <resistencia>30</resistencia>
+    </celda>
+    <celda id="16">
+        <capacidad>4660</capacidad>
+        <resistencia>26</resistencia>
+    </celda>
+</bateria>
